@@ -1,0 +1,41 @@
+[
+    {
+        "categoria": "FUTBOL",
+        "pregunta": "¿CUANDO SALIO CAMPEON OLIMPO DE LA ULTIMA VEZ?",
+        "respuesta": "2013",
+        "incorrecta1": "2010",
+        "incorrecta2": "1984",
+        "incorrecta3": "2003",
+        "imagen": "https://lastimaanadiemaestro.com/wp-content/uploads/2021/12/olimpo.jpg?w=746",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "FUTBOL",
+        "pregunta": "EN QUE AÑO SALIO CAMPEON ARGENTINA DE LA TERCERA COPA DEL MUNDO",
+        "respuesta": "2022",
+        "incorrecta1": "1986",
+        "incorrecta2": "1978",
+        "incorrecta3": "2021",
+        "imagen": "https://www.infobae.com/new-resizer/3FWw9WzdZZuhANWUtCyNfhwpmm8=/1200x900/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/DUOMNI7QSZBJ6SEPGBJ4LQPZCA.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "COMIDA",
+        "pregunta": "QUE COMIDA ES LA TIPICA DE ARGENTINA ?",
+        "respuesta": "ASADO",
+        "incorrecta1": "FIDEOS",
+        "incorrecta2": "POLENTA",
+        "incorrecta3": "ARROZ",
+        "imagen": "https://i.pinimg.com/originals/a5/37/05/a53705b9a77b24e5b04b99e06b737a60.png",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "FUTBOL",
+        "pregunta": "EN QUE CLUB JUEGA LEONEL MESSI ?",
+        "respuesta": "INTER MIAMI",
+        "incorrecta1": "París",
+        "incorrecta2": "BARCELONA",
+        "incorrecta3": "ARGENTINA",
+        "imagen": "hhttps://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg"
+    }
+]
